@@ -3,7 +3,10 @@ body {
       font-size: 150%;
     }
 
-
+    .myClass {
+        background-color: gray;
+        color: blue
+      }
 
     .anExampleClass {
       font-size: 300%;
